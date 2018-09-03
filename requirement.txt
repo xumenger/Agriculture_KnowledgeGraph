@@ -1,5 +1,6 @@
 # The following contains only Python package dependencies
 
+Cython>=0.28.5
 scrapy>=1.4.0
 Django>=1.11.7
 thulac>=0.1.2
